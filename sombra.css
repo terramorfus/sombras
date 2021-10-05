@@ -1,0 +1,55 @@
+
+body    {
+    background-color: rgb(224, 221, 221);
+    color: rgb(36, 36, 97);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    text-align: justify;
+    padding: 25px;
+    margin: 25px;
+}
+h1 {
+    background-color: rgb(48, 12, 2);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    border: rgb(59, 6, 2);
+    border-style: solid;
+    border-width: thick;
+    padding: 5px;
+    margin: 50px;
+}
+ hr {
+    width: 90%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 80px;
+    margin-bottom:90px;
+    background-color:rgb(114, 113, 113);
+ }
+iframe {
+    display: block;
+    margin: 0px auto;
+    border: rgb(52, 57, 61);
+    border-style: solid;
+    border-width: thick;
+}
+.description {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
